@@ -1,11 +1,16 @@
 _repo: Lady-Jane_71709
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71709-h/images/back_cover.jpg
 creator:
   author:
     agent_name: Jamison, Mrs. C. V.
     gutenberg_agent_id: '56344'
     url: http://www.gutenberg.org/2009/agents/56344
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71709#Lady-Jane
 gutenberg_issued: '2023-09-23'
 identifiers:
   gutenberg: '71709'
